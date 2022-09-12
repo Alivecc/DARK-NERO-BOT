@@ -41,8 +41,8 @@ global.socialm = "GitHub: Nero" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['774579505']
-global.ownertag = '774579505' //ur tag number
+global.owner = ['761532108']
+global.ownertag = '761532108' //ur tag number
 global.botname = '✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫' //ur bot name
 global.linkz = "https://github.com/Alivecc/DARK-NERO-BOT/tree/master" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Alivecc/DARK-NERO-BOT/tree/master" //ur website to be displayed
